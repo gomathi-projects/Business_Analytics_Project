@@ -17,7 +17,7 @@ This project is a Business Analytics Dashboard created using Power BI.
 - BA Dashboard.png
 
 ## Dashboard Preview
-![Dashboard](BA Dashboard.png)
+![Dashboard](./BA%Dashboard.png)
 
 ## Author
 Gomathi
