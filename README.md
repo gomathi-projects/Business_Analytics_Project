@@ -20,4 +20,4 @@ This project is a Business Analytics Dashboard created using Power BI.
 ![Dashboard](dashboard.png)
 
 ## Author
-Gomathi
+Gomathi S
